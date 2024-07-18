@@ -1,0 +1,68 @@
+﻿  Bank Broject  in OOP Course 11.cpp
+C:\Users\TOPTECH\source\repos\Bank Broject  in OOP Course 11\Bank Broject  in OOP Course 11\clsString.h(39): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\TOPTECH\source\repos\Bank Broject  in OOP Course 11\Bank Broject  in OOP Course 11\clsString.h(44): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\TOPTECH\source\repos\Bank Broject  in OOP Course 11\Bank Broject  in OOP Course 11\clsString.h(56): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\TOPTECH\source\repos\Bank Broject  in OOP Course 11\Bank Broject  in OOP Course 11\clsString.h(86): warning C4018: '<': signed/unsigned mismatch
+C:\Users\TOPTECH\source\repos\Bank Broject  in OOP Course 11\Bank Broject  in OOP Course 11\clsString.h(111): warning C4018: '<': signed/unsigned mismatch
+C:\Users\TOPTECH\source\repos\Bank Broject  in OOP Course 11\Bank Broject  in OOP Course 11\clsString.h(133): warning C4018: '<': signed/unsigned mismatch
+C:\Users\TOPTECH\source\repos\Bank Broject  in OOP Course 11\Bank Broject  in OOP Course 11\clsString.h(147): warning C4018: '<': signed/unsigned mismatch
+C:\Users\TOPTECH\source\repos\Bank Broject  in OOP Course 11\Bank Broject  in OOP Course 11\clsString.h(166): warning C4018: '<': signed/unsigned mismatch
+C:\Users\TOPTECH\source\repos\Bank Broject  in OOP Course 11\Bank Broject  in OOP Course 11\clsString.h(185): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\TOPTECH\source\repos\Bank Broject  in OOP Course 11\Bank Broject  in OOP Course 11\clsString.h(190): warning C4018: '<': signed/unsigned mismatch
+C:\Users\TOPTECH\source\repos\Bank Broject  in OOP Course 11\Bank Broject  in OOP Course 11\clsString.h(212): warning C4018: '<': signed/unsigned mismatch
+C:\Users\TOPTECH\source\repos\Bank Broject  in OOP Course 11\Bank Broject  in OOP Course 11\clsString.h(232): warning C4018: '<': signed/unsigned mismatch
+C:\Users\TOPTECH\source\repos\Bank Broject  in OOP Course 11\Bank Broject  in OOP Course 11\clsString.h(251): warning C4018: '<': signed/unsigned mismatch
+C:\Users\TOPTECH\source\repos\Bank Broject  in OOP Course 11\Bank Broject  in OOP Course 11\clsString.h(285): warning C4018: '<': signed/unsigned mismatch
+C:\Users\TOPTECH\source\repos\Bank Broject  in OOP Course 11\Bank Broject  in OOP Course 11\clsString.h(310): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\TOPTECH\source\repos\Bank Broject  in OOP Course 11\Bank Broject  in OOP Course 11\clsString.h(338): warning C4018: '<': signed/unsigned mismatch
+C:\Users\TOPTECH\source\repos\Bank Broject  in OOP Course 11\Bank Broject  in OOP Course 11\clsString.h(355): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\TOPTECH\source\repos\Bank Broject  in OOP Course 11\Bank Broject  in OOP Course 11\clsString.h(470): warning C4018: '<': signed/unsigned mismatch
+C:\Users\TOPTECH\source\repos\Bank Broject  in OOP Course 11\Bank Broject  in OOP Course 11\clsUtil.h(64): warning C4102: 'defualt': unreferenced label
+C:\Users\TOPTECH\source\repos\Bank Broject  in OOP Course 11\Bank Broject  in OOP Course 11\clsUtil.h(287): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\TOPTECH\source\repos\Bank Broject  in OOP Course 11\Bank Broject  in OOP Course 11\clsUtil.h(301): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\TOPTECH\source\repos\Bank Broject  in OOP Course 11\Bank Broject  in OOP Course 11\clsUser.h(197): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  C:\Users\TOPTECH\source\repos\Bank Broject  in OOP Course 11\Bank Broject  in OOP Course 11\clsUser.h(26): note: see declaration of 'clsUser::stLoginRegisterRecord'
+C:\Users\TOPTECH\source\repos\Bank Broject  in OOP Course 11\Bank Broject  in OOP Course 11\clsBankClient.h(195): warning C4240: nonstandard extension used: access to 'clsBankClient::stTrnsferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+  C:\Users\TOPTECH\source\repos\Bank Broject  in OOP Course 11\Bank Broject  in OOP Course 11\clsBankClient.h(49): note: see declaration of 'clsBankClient::stTrnsferLogRecord'
+C:\Users\TOPTECH\source\repos\Bank Broject  in OOP Course 11\Bank Broject  in OOP Course 11\clsBankClient.h(31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\TOPTECH\source\repos\Bank Broject  in OOP Course 11\Bank Broject  in OOP Course 11\clsBankClient.h(59): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\TOPTECH\source\repos\Bank Broject  in OOP Course 11\Bank Broject  in OOP Course 11\clsBankClient.h(60): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\TOPTECH\source\repos\Bank Broject  in OOP Course 11\Bank Broject  in OOP Course 11\clsBankClient.h(61): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\TOPTECH\source\repos\Bank Broject  in OOP Course 11\Bank Broject  in OOP Course 11\clsBankClient.h(416): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\TOPTECH\source\repos\Bank Broject  in OOP Course 11\Bank Broject  in OOP Course 11\clsBankClient.h(422): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\TOPTECH\source\repos\Bank Broject  in OOP Course 11\Bank Broject  in OOP Course 11\clsBankClient.h(434): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\TOPTECH\source\repos\Bank Broject  in OOP Course 11\Bank Broject  in OOP Course 11\clsAddNewClientScreen.h(31): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\TOPTECH\source\repos\Bank Broject  in OOP Course 11\Bank Broject  in OOP Course 11\clsUpdateClientScreen.h(47): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\TOPTECH\source\repos\Bank Broject  in OOP Course 11\Bank Broject  in OOP Course 11\clsTotalBalancesScreen.h(57): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\TOPTECH\source\repos\Bank Broject  in OOP Course 11\Bank Broject  in OOP Course 11\clsTransferScreen.h(41): warning C4244: '=': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\TOPTECH\source\repos\Bank Broject  in OOP Course 11\Bank Broject  in OOP Course 11\clsTransferScreen.h(46): warning C4244: '=': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\TOPTECH\source\repos\Bank Broject  in OOP Course 11\Bank Broject  in OOP Course 11\clsCurrency.h(28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\TOPTECH\source\repos\Bank Broject  in OOP Course 11\Bank Broject  in OOP Course 11\clsUpdateCurrencyRateScreen.h(17): warning C4244: '=': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\TOPTECH\source\repos\Bank Broject  in OOP Course 11\Bank Broject  in OOP Course 11\clsCurrencyCalculatorScreen.h(18): warning C4244: '=': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\TOPTECH\source\repos\Bank Broject  in OOP Course 11\Bank Broject  in OOP Course 11\clsBankClient.h(386): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\Users\TOPTECH\source\repos\Bank Broject  in OOP Course 11\Bank Broject  in OOP Course 11\clsUser.h(358): warning C4715: 'clsUser::Save': not all control paths return a value
+  Bank Broject  in OOP Course 11.vcxproj -> C:\Users\TOPTECH\source\repos\Bank Broject  in OOP Course 11\Debug\Bank Broject  in OOP Course 11.exe
